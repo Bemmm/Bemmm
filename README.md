@@ -11,12 +11,12 @@
 <br />
 
 Hi, i'm [Bohdan Bembenok](https://www.linkedin.com/in/bohdan-bembenok-551838b8/)! <br>
-A passionate Front-end developer from Ukraine🇺🇦.<br>
+A passionate Front-end developer from Ukraine 🇺🇦.<br>
 In love with beautiful UI/UX designs, there why i'm always ready to work on such projects. Always scrupulous to the atchitecture and code quality. 
 Work with Angular, Node.js, React.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
   
 - 💼 Any freelance work? do reach, [email](mailto:bembenok+gitr@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
@@ -30,7 +30,7 @@ Work with Angular, Node.js, React.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -42,20 +42,4 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
 
